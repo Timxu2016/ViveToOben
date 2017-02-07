@@ -1,0 +1,1 @@
+Place your animation files in subfolders of this folder.

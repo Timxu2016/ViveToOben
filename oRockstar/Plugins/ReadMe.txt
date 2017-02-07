@@ -1,0 +1,1 @@
+Careful with this folder. The files in here can make or break your entire project. Place your plugin data in this folder.

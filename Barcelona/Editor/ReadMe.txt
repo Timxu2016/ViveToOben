@@ -1,0 +1,1 @@
+Place your editor scripts in this folder.

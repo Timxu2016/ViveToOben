@@ -1,0 +1,1 @@
+Place your streaming assets to be loaded on mobile or other platforms in this folder.

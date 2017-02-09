@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: b77edd61756bb4541a803fb4b2df6e1b
+timeCreated: 1479713030
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box650
+    100002: Cylinder173
+    100004: Cylinder175
+    100006: Cylinder182
+    100008: Cylinder199
+    100010: Cylinder202
+    100012: Cylinder205
+    100014: Cylinder241
+    100016: Cylinder245
+    100018: //RootNode
+    100020: Line017
+    100022: Line018
+    100024: Line020
+    100026: Line022
+    100028: Line023
+    100030: Line025
+    100032: Line026
+    100034: Object029
+    100036: Object031
+    100038: Object032
+    100040: Object033
+    100042: Plane080
+    100044: Plane081
+    100046: Plane082
+    100048: Plane083
+    400000: Box650
+    400002: Cylinder173
+    400004: Cylinder175
+    400006: Cylinder182
+    400008: Cylinder199
+    400010: Cylinder202
+    400012: Cylinder205
+    400014: Cylinder241
+    400016: Cylinder245
+    400018: //RootNode
+    400020: Line017
+    400022: Line018
+    400024: Line020
+    400026: Line022
+    400028: Line023
+    400030: Line025
+    400032: Line026
+    400034: Object029
+    400036: Object031
+    400038: Object032
+    400040: Object033
+    400042: Plane080
+    400044: Plane081
+    400046: Plane082
+    400048: Plane083
+    2300000: Box650
+    2300002: Cylinder173
+    2300004: Cylinder175
+    2300006: Cylinder182
+    2300008: Cylinder199
+    2300010: Cylinder202
+    2300012: Cylinder205
+    2300014: Cylinder241
+    2300016: Cylinder245
+    2300018: Object029
+    2300020: Object031
+    2300022: Object032
+    2300024: Object033
+    2300026: Plane080
+    2300028: Plane081
+    2300030: Plane082
+    2300032: Plane083
+    2300034: Line020
+    3300000: Box650
+    3300002: Cylinder173
+    3300004: Cylinder175
+    3300006: Cylinder182
+    3300008: Cylinder199
+    3300010: Cylinder202
+    3300012: Cylinder205
+    3300014: Cylinder241
+    3300016: Cylinder245
+    3300018: Object029
+    3300020: Object031
+    3300022: Object032
+    3300024: Object033
+    3300026: Plane080
+    3300028: Plane081
+    3300030: Plane082
+    3300032: Plane083
+    3300034: Line020
+    4300000: Object033
+    4300002: Cylinder205
+    4300004: Cylinder245
+    4300006: Cylinder241
+    4300008: Object031
+    4300010: Box650
+    4300012: Object032
+    4300014: Object029
+    4300016: Cylinder182
+    4300018: Cylinder202
+    4300020: Cylinder199
+    4300022: Cylinder173
+    4300024: Plane083
+    4300026: Plane082
+    4300028: Plane081
+    4300030: Cylinder175
+    4300032: Plane080
+    4300034: Line020
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
